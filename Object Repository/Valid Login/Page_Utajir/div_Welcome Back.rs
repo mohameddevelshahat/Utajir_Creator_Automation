@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Welcome Back</name>
+   <tag></tag>
+   <elementGuidId>d541352b-422b-45a7-bceb-183af762c16d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' p-toast-detail ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.p-toast-detail</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d258e105-e5e2-4023-a03c-ceeb4d1419bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-toast-detail</value>
+      <webElementGuid>c4f295ad-9162-42d1-adad-64e7af1a53fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-p</name>
+      <type>Main</type>
+      <value>success</value>
+      <webElementGuid>c2b76fc4-40ae-4cb1-be21-7217c3a2d811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>detail</value>
+      <webElementGuid>393f555b-6a31-4dc3-ade5-6c3c07f5fb94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome Back</value>
+      <webElementGuid>5cf6c006-3c3b-4b76-aeae-cc58385d40e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-6ad07a2ac8d8cab7c533026de72c01c3</value>
+      <webElementGuid>da6b846b-aedf-4e40-8365-ea6b34240c5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' p-toast-detail ')]</value>
+      <webElementGuid>0dccc9a6-a73e-4730-8014-aabbbf141621</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' p-toast-detail ')]</value>
+      <webElementGuid>de69bcc7-2c3b-4e96-867d-f6eaac580f8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Welcome Back' or . = 'Welcome Back')]</value>
+      <webElementGuid>4104b603-0186-4079-8018-7d1f46cb0524</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

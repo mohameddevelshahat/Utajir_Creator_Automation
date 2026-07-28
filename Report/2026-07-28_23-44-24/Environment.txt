@@ -1,0 +1,23 @@
+========== EXECUTION ENVIRONMENT ==========
+
+Project        : Zumrahub Website
+Tester         : Mohamed Alshahat
+Framework      : Katalon Studio
+Language       : Groovy
+
+Browser        : Chrome
+Environment    : QA
+Execution      : Local
+
+Operating System : Windows 11
+OS Version       : 10.0
+Java Version     : 21.0.9
+User             : GHZ
+
+Katalon Version : 11
+
+Suite Started : 2026-07-28 23:44:24
+Suite Ended   : 2026-07-28 23:44:34
+Duration      : 495908:44:34
+
+Generated : 2026-07-28 23:44:34

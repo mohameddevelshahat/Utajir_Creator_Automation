@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+    implementation 'com.aventstack:extentreports:5.1.2'
+
+}
+
+task copyDependencies(type: Copy) {
+    from configurations.runtimeClasspath
+    into "$projectDir/Drivers"
+}

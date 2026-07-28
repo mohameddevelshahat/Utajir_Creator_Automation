@@ -1,0 +1,23 @@
+========== EXECUTION ENVIRONMENT ==========
+
+Project        : Utajir Creator
+Tester         : Mohamed Alshahat
+Framework      : Katalon Studio
+Language       : Groovy
+
+Browser        : Chrome
+Environment    : QA
+Execution      : Local
+
+Operating System : Windows 11
+OS Version       : 10.0
+Java Version     : 21.0.9
+User             : GHZ
+
+Katalon Version : 11
+
+Suite Started : 2026-07-28 23:51:34
+Suite Ended   : 2026-07-28 23:51:43
+Duration      : 495908:51:44
+
+Generated : 2026-07-28 23:51:44
